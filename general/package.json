@@ -1,0 +1,22 @@
+{
+  "name": "what",
+  "version": "6.0.0",
+  "description": "this is the best",
+  "main": "backend-lesson1.js",
+  "scripts": {
+    "test": "hi"
+  },
+  "repository": {
+    "type": "git",
+    "url": "none"
+  },
+  "keywords": [
+    "deez",
+    "nuts",
+    "on",
+    "your",
+    "chin"
+  ],
+  "author": "imagon dragons",
+  "license": "ISC"
+}

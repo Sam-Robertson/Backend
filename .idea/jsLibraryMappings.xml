@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavaScriptLibraryMappings">
+    <file url="file://$PROJECT_DIR$" libraries="{Backend/node_modules}" />
+    <file url="file://$PROJECT_DIR$/express-routes-stuff" libraries="{Backend/express-routes-stuff/node_modules}" />
+    <file url="file://$PROJECT_DIR$/expressapp" libraries="{Backend/expressapp/node_modules}" />
+    <includedPredefinedLibrary name="ECMAScript 6" />
+  </component>
+</project>
